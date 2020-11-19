@@ -1,0 +1,5 @@
+Allows for the creation of customized dyes.
+Endless possibilities!
+
+Open the new menu by interacting with a Dye Vat.
+Add in materials to mix colors, add special effects, and more!

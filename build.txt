@@ -1,0 +1,3 @@
+displayName = Custom Dyes
+author = RobotLucca
+version = 0.1
